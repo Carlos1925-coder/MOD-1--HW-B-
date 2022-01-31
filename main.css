@@ -32,10 +32,10 @@ a{
   }
   .box ul {
     margin-bottom: 15px;
+    padding-left: 18px;
   }
   .box ul li {
     padding-bottom: 3.2px;
-    padding-left: 18px;
   }
   .box ul li:nth-child(1){
     list-style-type: none;
