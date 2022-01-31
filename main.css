@@ -1,0 +1,78 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+html{
+  overflow-y: hidden;
+}
+.container{
+  height: 100%;
+  width: 100%;
+  background-image: url('https://media1.popsugar-assets.com/files/thumbor/IEHdDbtYG9jQcjkEEb9cGMWp2x8/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-:fill-!white!-/2015/04/24/749/n/1922507/48d5d0c5_edit_img_facebook_post_image_file_3230452_1429894215.png');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.box{
+  width: 90%;
+  height: 100%;
+  background: #fff;
+  width: 90%;
+  width: 700px;
+  height: 100%;
+  margin: auto;
+  padding-top: 28px;
+  padding: 26px;
+}
+.box img:hover{
+   transform: scale(1.2);
+}
+a{
+  text-decoration: none;
+  color: #000;
+  }
+  .box ul {
+    margin-bottom: 15px;
+  }
+  .box ul li {
+    margin-left: 18px;
+    padding-bottom: 3.2px;
+  }
+  .box ul li:nth-child(1){
+    list-style-type: none;
+  }
+  .box p {
+    margin-bottom: 10px;
+     margin-top: 5px;
+     font-size: 16px;
+     line-height: 120%;
+  }
+  .box h1 {
+    margin-top: 15px;
+  }
+  .email a {
+     color: blue;
+     font-family: cursive;
+     font-size: 14px;
+  }
+ .ref{
+   
+    font-family: monospace;
+    color: blue;
+ }
+ p.ref  {
+  font-size: 14px;
+ }
+
+  .ref:hover {
+  text-decoration: underline;
+  font-weight: bold;
+ }
+
+ footer{
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px;
+  position: relative;
+  bottom: -5px;
+ }
+
